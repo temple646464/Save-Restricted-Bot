@@ -3,5 +3,5 @@
     "API_LOL_ID": "28748671",
     "API_LOL_HASH": "f53ec7c41ce34e6d585674ed9ce6167c",
     "PORT": "3000",
-    "STRING": Null
+    "STRING": None
 }
